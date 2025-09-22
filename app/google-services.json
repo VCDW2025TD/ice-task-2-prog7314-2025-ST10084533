@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956137795619",
+    "project_id": "memestreamapp-847f4",
+    "storage_bucket": "memestreamapp-847f4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956137795619:android:4811227e49b355e1b78196",
+        "android_client_info": {
+          "package_name": "com.aleesha.memestreamapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC29L8H7ICmOxrK0Ml-y4Wpw1_yisKTtQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
